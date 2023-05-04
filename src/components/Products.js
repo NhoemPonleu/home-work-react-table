@@ -87,7 +87,7 @@ const Products = ({ data }) => {
   return (
     <>
       <DataTable
-        title='Contact List'
+        title='List Of Product'
         columns={columns}
         data={filteredItems}
         pagination 
